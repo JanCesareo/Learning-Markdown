@@ -12,3 +12,9 @@ int main()
   return 0;
 }
 ```
+
+
+
+- [x] Finish SE Bookaholics hw
+- [x] Get all of the leetcode problem solutions
+- [ ] Store the leetcode solutions in a file
